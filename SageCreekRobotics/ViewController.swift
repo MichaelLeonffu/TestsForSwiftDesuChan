@@ -18,7 +18,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var myBar: UIProgressView!
     @IBOutlet weak var myStepper: UIStepper!
     @IBOutlet weak var myLabelDebug: UILabel!
-    @IBOutlet weak var myTextView: UITextField!
     @IBOutlet weak var myButton: UIButton!
     @IBOutlet weak var myImage: UIImageView!
     
